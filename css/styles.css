@@ -3,8 +3,8 @@
 }
 
 .cabeçalho {
-    /* background: linear-gradient(#232526, #414345); */
     background: linear-gradient(#000, #c905cf);
+    background: #c905cf;
 }
 
 .cabeçalho__titulo {
